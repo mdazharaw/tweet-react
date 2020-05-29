@@ -10,16 +10,18 @@
   },
   "postcss": {},
   "dependencies": {
-    "@babel/core": "^7.3.3",
-    "@babel/plugin-transform-react-jsx": "^7.7.0",
-    "babel-loader": ">=8.0.5",
-    "extract-text-webpack-plugin": ">=4.0.0-beta.0",
-    "html-loader": ">=0.5.5",
-    "html-webpack-plugin": ">=3.2.0",
-    "webpack-cli": ">=3.2.3",
-    "webpack": "^4.29.4",
+    "@babel/core": "^7.10.1",
+    "@babel/plugin-transform-react-jsx": "^7.10.1",
+    "anchorme": "^2.1.2",
+    "babel-loader": "^8.1.0",
     "express": ">=4.16.4",
-    "react": "^16.8.2",
-    "react-dom": "^16.8.2"
+    "extract-text-webpack-plugin": ">=4.0.0-beta.0",
+    "html-loader": "^1.1.0",
+    "html-webpack-plugin": "^4.3.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-linkify": "^1.0.0-alpha",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11"
   }
 }
